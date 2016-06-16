@@ -1,6 +1,6 @@
 # DataSchool
 
-## To save lecture materials and all about DataScience shool
+## To save lecture materials and all about DataScience
 
 
 
