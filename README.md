@@ -1,14 +1,9 @@
 <<<<<<< HEAD
 # DataSchool
 
-## To save lecture materials and all about DataScience
-
-
-
-
-
-It is for studying python and programming.
- I am sure it could be getting further more steps to my goal.
+#### To save lecture materials and all about DataScience
+##### It is for studying python and programming.
+##### I am sure it could be getting further more steps to my goal.
 =======
 # whoscored
 crawling whoscored.com and analytics soccer player 
