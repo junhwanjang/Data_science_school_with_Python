@@ -8,7 +8,7 @@
 
 
 It is for studying python and programming.
-I am sure it could be getting further more steps to my goal.
+ I am sure it could be getting further more steps to my goal.
 =======
 # whoscored
 crawling whoscored.com and analytics soccer player 
